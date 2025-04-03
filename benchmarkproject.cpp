@@ -3,7 +3,7 @@
 #include <vector>
 #include <fstream>
 
-int main() {
-    std::cout << "Hello, world!" << std::endl;
-    return 0;
-  }
+int main() {  // Ensure this is the program entry point
+  std::cout << "Benchmark started!" << std::endl;
+  return 0;
+}
